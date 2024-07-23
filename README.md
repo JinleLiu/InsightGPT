@@ -2,7 +2,7 @@
 
 <p align="center">
     <br>
-    <img src="resources/banner.png"/>
+    <img src="resources/Visualized.png"/>
     <br>
 <p>
 <p align="center">
