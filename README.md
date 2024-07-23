@@ -2,15 +2,9 @@
 
 <p align="center">
     <br>
-    <img src="resources/Visualized.png"/>
+    <img src="Resources/Visualized.png"/>
     <br>
-<p>
-<p align="center">
-<a href="https://modelscope.cn/home">ModelScope Community Website</a>
-<br>
-        <a href="README_CN.md">中文</a> &nbsp ｜ &nbsp English &nbsp
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/python-%E2%89%A53.8-5be.svg">
 <img src="https://img.shields.io/badge/pytorch-%E2%89%A51.12%20%7C%20%E2%89%A52.0-orange.svg">
@@ -21,9 +15,6 @@
 <a href="https://github.com/modelscope/swift/pulls"><img src="https://img.shields.io/badge/PR-welcome-55EB99.svg"></a>
 </p>
 
-<p align="center">
-<a href="https://trendshift.io/repositories/6427" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6427" alt="modelscope%2Fswift | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
 
 ## 📖 Table of Contents
 - [Introduction](#-introduction)
