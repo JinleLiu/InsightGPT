@@ -1,4 +1,4 @@
-# SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning)
+# InsightGPT (Pioneering Urban Traffic Scene Insight Ability Through Enhanced Model Training Strategy)
 
 <p align="center">
     <br>
