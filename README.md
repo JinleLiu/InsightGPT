@@ -24,7 +24,7 @@
 ## 📝 Introduction
 The InsightGPT model significantly enhances the understanding capabilities of multimodal generative AI in intelligent transportation systems through innovative data organization and training strategies. By combining human annotators with a powerful general-purpose Multimodal Large Language Model (MLLM), we optimized the organization of data to ensure efficient and high-quality information processing. Additionally, InsightGPT employs a phased training strategy that inputs data for different training objectives into specific learning rate phases, guided by a Warmup-Stable-Decay learning rate scheduler. This method not only deepens the model's understanding of the overall traffic scene but also enhances its ability to recognize and reason about individual objects within the scene.
 
-SWIFT web-ui is available both on [Huggingface space](https://huggingface.co/spaces/tastelikefeet/swift) and [ModelScope studio](https://www.modelscope.cn/studios/iic/Scalable-lightWeight-Infrastructure-for-Fine-Tuning/summary), please feel free to try!
+The InsightGPT's parameters are open source on [Huggingface space](https://huggingface.co/JinLe/InsightGPT), please feel free to try!
 
 
 
