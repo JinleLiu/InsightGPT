@@ -30,6 +30,8 @@ The InsightGPT's parameters are open source on [Huggingface space](https://huggi
 
 ## 🛠️ Installation
 
+InsightGPT is adapted for the transportation domain based on GLM-4V-9b. The entire fine-tuning process is supported by the Swift platform. Therefore, before using InsightGPT, Swift must be installed first.
+
 SWIFT runs in the Python environment. Please ensure your Python version is higher than 3.8.
 
 - Method 1: Install SWIFT using pip command:
