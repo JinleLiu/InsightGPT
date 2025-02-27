@@ -17,7 +17,6 @@
 - [Introduction](#-introduction)
 - [Installation](#%EF%B8%8F-installation)
 - [Getting Started](#-getting-started)
-- [License](#-License)
 - [Citation](#-citation)
 
 ## 📝 Introduction
@@ -78,17 +77,7 @@ CUDA_VISIBLE_DEVICES=0 swift export \
 
 ## 🏛 License
 
-This framework is licensed under the [Apache License (Version 2.0)](https://github.com/modelscope/modelscope/blob/master/LICENSE). For models and datasets, please refer to the original resource page and follow the corresponding License.
+This project uses the following open source libraries:
+ 
+- [ms-swift](https://github.com/modelscope/ms-swift) - Description of what it does.
 
-## 📎 Citation
-
-```bibtex
-@Misc{swift,
-  title = {SWIFT:Scalable lightWeight Infrastructure for Fine-Tuning},
-  author = {The ModelScope Team},
-  howpublished = {\url{https://github.com/modelscope/swift}},
-  year = {2024}
-}
-```
-
-[![Star History Chart](https://api.star-history.com/svg?repos=modelscope/swift&type=Date)](https://star-history.com/#modelscope/swift&Date)
