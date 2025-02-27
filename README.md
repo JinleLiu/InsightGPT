@@ -17,7 +17,7 @@
 - [Introduction](#-introduction)
 - [Installation](#%EF%B8%8F-installation)
 - [Getting Started](#-getting-started)
-- [Citation](#-citation)
+- [Acknowledgements](#-acknowledgements)
 
 ## 📝 Introduction
 The InsightGPT model significantly enhances the understanding capabilities of multimodal generative AI in intelligent transportation systems through innovative data organization and training strategies. By combining human annotators with a powerful general-purpose Multimodal Large Language Model (MLLM), we optimized the organization of data to ensure efficient and high-quality information processing. Additionally, InsightGPT employs a phased training strategy that inputs data for different training objectives into specific learning rate phases, guided by a Warmup-Stable-Decay learning rate scheduler. This method not only deepens the model's understanding of the overall traffic scene but also enhances its ability to recognize and reason about individual objects within the scene.
@@ -75,9 +75,9 @@ CUDA_VISIBLE_DEVICES=0 swift export \
 
 
 
-## 🏛 License
+## 🏛 Acknowledgements
 
-This project uses the following open source libraries:
+We would like to acknowledge the following open-source project that contributed to our work:
  
-- [ms-swift](https://github.com/modelscope/ms-swift) - Description of what it does.
+- [ms-swift](https://github.com/modelscope/ms-swift) -  Brief description of how this project helped.
 
