@@ -79,5 +79,5 @@ CUDA_VISIBLE_DEVICES=0 swift export \
 
 We would like to acknowledge the following open-source project that contributed to our work:
  
-- [ms-swift](https://github.com/modelscope/ms-swift) -  Brief description of how this project helped.
+- [ms-swift](https://github.com/modelscope/ms-swift) -  Provides us with a convenient and efficient platform for calling and fine-tuning MLLMs.
 
