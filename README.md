@@ -61,14 +61,14 @@ For example, use 'v0-20240709-182636-WSD10%'.(This is the best model version fin
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 swift infer \
-    --ckpt_dir /root/autodl-tmp/ckpt/glm4v-9b-chat/v1-20240705-163125/checkpoint-2652 \
+    --ckpt_dir /root/autodl-tmp/ckpt/glm4v-9b-chat/v0-20240709-182636-WSD10%/checkpoint-2652 \
     --load_dataset_config true \
 ```
 - Method 2: Inference after merge:
 
 ```shell
 CUDA_VISIBLE_DEVICES=0 swift export \
-    --ckpt_dir /root/autodl-tmp/ckpt/glm4v-9b-chat/v1-20240705-163125/checkpoint-2652 \
+    --ckpt_dir /root/autodl-tmp/ckpt/glm4v-9b-chat/v0-20240709-182636-WSD10%/checkpoint-2652 \
     --merge_lora true
 ```
 
